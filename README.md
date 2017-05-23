@@ -2,17 +2,17 @@
 -Add todoList: String
 ```js
 {
-	title:string,
-	todos:[]
+title:string,
+todos:[]
 }
 ```
 
 -Add todo: object
 ```js
 {
-	title:string,
-	complite:false,
-	added:new Date(),
-	id:Integer
+title:string,
+complite:false,
+added:new Date(),
+id:Integer
 }
 ```
